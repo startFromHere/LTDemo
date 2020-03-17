@@ -193,6 +193,7 @@
 		CFABD30023053D0F009BEA09 /* LTAnimationTestVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTAnimationTestVC.m; sourceTree = "<group>"; };
 		CFABD304230554A2009BEA09 /* LTTipsVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTTipsVC.h; sourceTree = "<group>"; };
 		CFABD305230554A2009BEA09 /* LTTipsVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTTipsVC.m; sourceTree = "<group>"; };
+		CFD217EB2420BF7A00F2E0F5 /* Header2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header2.h; sourceTree = "<group>"; };
 		CFFF95EC2314BD660059B8A0 /* LTTimer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTTimer.h; sourceTree = "<group>"; };
 		CFFF95ED2314BD660059B8A0 /* LTTimer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTTimer.m; sourceTree = "<group>"; };
 		F2AC936C884369F2419C00A8 /* libPods-LTDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LTDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -281,6 +282,7 @@
 			children = (
 				CF32048923BAFC3F00725BB7 /* bigPic.png */,
 				CFABD2FD2303E672009BEA09 /* Header.h */,
+				CFD217EB2420BF7A00F2E0F5 /* Header2.h */,
 				CF1AFB852248EDF200583E0A /* LTDemo */,
 				CF1AFB9E2248EDF400583E0A /* LTDemoTests */,
 				CF1AFBA92248EDF400583E0A /* LTDemoUITests */,
